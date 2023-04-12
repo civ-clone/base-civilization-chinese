@@ -1,4 +1,3 @@
 # base-civilization-chinese
 
-This is a template repo.
-
+`Chinese` `Civilization` class and `Leader`s classes, and `City` names.

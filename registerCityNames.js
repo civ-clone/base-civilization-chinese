@@ -33,7 +33,7 @@ const CityNameRegistry_1 = require("@civ-clone/core-civilization/CityNameRegistr
     'Ningbo',
     'Taiyuan',
     'Nanning',
-    'Xiamen†',
+    'Xiamen',
     'Fuzhou',
     'Changzhou',
     'Wenzhou',
