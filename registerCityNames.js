@@ -9,7 +9,7 @@ const CityNameRegistry_1 = require("@civ-clone/core-civilization/CityNameRegistr
     'Chongqing',
     'Tianjin',
     'Guangzhou',
-    'Shenzhen†',
+    'Shenzhen',
     'Chengdu',
     'Nanjing',
     'Wuhan',
